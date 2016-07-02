@@ -15,4 +15,3 @@ namespace HelpDeskTrain.Models {
             public DbSet<Activ> Activs { get; set; }
         }
     }
-}
